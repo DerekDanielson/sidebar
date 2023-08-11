@@ -73,6 +73,9 @@ body {
   line-height: 1.5;
   font-size: 0.875rem;
 }
+.topLogo {
+  height: 140px;
+}
 ul {
   list-style-type: none;
 }
